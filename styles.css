@@ -370,6 +370,8 @@ ul {
     border: 1px solid var(--border);
     box-shadow: var(--shadow-soft);
     background: rgba(6, 9, 18, 0.45);
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
 
 .hero-chip {
