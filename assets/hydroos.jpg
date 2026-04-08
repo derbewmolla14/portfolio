@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200">
-  <rect width="400" height="200" fill="#64FFDA" rx="10"/>
-  <text x="200" y="110" text-anchor="middle" fill="#0A192F" font-family="Inter, sans-serif" font-size="24" font-weight="600">HydroOS</text>
-  <text x="200" y="135" text-anchor="middle" fill="#0A192F" font-family="Inter, sans-serif" font-size="14">Smart Water Monitor</text>
-</svg>
